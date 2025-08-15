@@ -21,5 +21,6 @@
     "eslint": "^7.32.0",
     "prettier": "^2.3.2"
   },
-  "comments": "Dự án này được tạo ra để thử nghiệm các công nghệ web mới."
+  "comments": "Dự án này được tạo ra để thử nghiệm các công nghệ web mới.",
+  "project_details": "Project intended for web technology experimentation."
 }
