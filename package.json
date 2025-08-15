@@ -1,1 +1,20 @@
 {
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Đây là một ứng dụng mẫu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/my-app.git"
+  },
+  "keywords": ["app", "sample"],
+  "author": "Tên tác giả",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user/my-app/issues"
+  },
+  "homepage": "https://github.com/user/my-app#readme"
+}
